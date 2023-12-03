@@ -28,12 +28,14 @@ Using Blocknative docs
 To get an understanding of how Mempools work and how to access transactions that I'm forwarding there.
 - https://github.com/jaiminbuilds/mev
 
-****
+---
 
 ### Dec 2nd
 Gas monitoring Chrome extension, it uses the blocknative API to monitor gas prices 
 
 - https://github.com/jaiminbuilds/gas_no_brakes
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
