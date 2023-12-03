@@ -1,8 +1,8 @@
 # Devcember
 
-Advent Calendev
+## Advent Calendev
 
-WTF is the point of this repo?
+#WTF is the point of this repo?
 
 Well, it's been a while since I've coded for fun... that's it really
 
