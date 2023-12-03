@@ -31,7 +31,7 @@ To get an understanding of how Mempools work and how to access transactions that
 ---
 
 ### Dec 2nd
-Gas monitoring Chrome extension, it uses the blocknative API to monitor gas prices 
+Gas monitoring Chrome extension, it uses the blocknative API to monitor gas prices and shows it from the icon on the broswer extension. It's Typescript and should be able to be deployed on both Chrome and Firefox
 
 - https://github.com/jaiminbuilds/gas_no_brakes
 
