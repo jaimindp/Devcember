@@ -35,6 +35,12 @@ Gas monitoring Chrome extension, it uses the blocknative API to monitor gas pric
 
 - https://github.com/jaiminbuilds/gas_no_brakes
 
+Set up a simple python flask server and client communicating through Heroku, Heroku is nice 👍
+- https://github.com/jaiminbuilds/flask-server
+
+Using covalent's api and typescript to track portfolio balance, need to get a Zerion api
+- https://github.com/jaiminbuilds/portfolio
+
 ---
 
 ### Ideas
