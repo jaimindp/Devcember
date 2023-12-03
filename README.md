@@ -6,7 +6,7 @@
 
 Well, it's been a while since I've coded for fun... that's it really
 
-Coming back from Devconnect in November, I saw a tonne of cool things being built and though there's no better time to expore some of this exciting tech. There is too much cool shit being built in crypto and I want to be a part of it. This is a way to explore the technology 🛠️
+Coming back from Devconnect in November, I saw a tonne of cool things being built and though there's no better time to expore some of this exciting tech. There is so much awesome shit being built in crypto and the best way to get invovled is to get my hands dirty. This is a way to explore the technology 🛠️
 
 My background is mostly data scienced and ML, I used to be a Python maxi building mostly ML models and all my code in Jupyter Notebooks. I've built some frontend (JS & React) before. Never gone too deep with smart contract engineering and EVM. This is the point of doing this month of coding.
 
