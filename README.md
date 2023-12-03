@@ -73,7 +73,7 @@ I probably won't get round to half of these ideas but here are some of the thing
   - Frontrunning searching strategies
 - Browser extensions 😀 
 - Build a good portfolio tracker
-  - Using APIs
+  - Using APIs (Coingecko, De.fi, covalent, defillama, coinmarketcap, debank)
   - Using Blockchain data directly
 - Simulate any EVM transaction
   - Enso Temper
@@ -86,5 +86,3 @@ I probably won't get round to half of these ideas but here are some of the thing
   - To look at frontrunnable value
 - Perp Aggs
 - Build a bridge
-
-
