@@ -41,8 +41,7 @@ Gas monitoring Chrome extension, it uses the blocknative API to monitor gas pric
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
 - Node Guardians Tutorials for a more fundamental understanding of EVM
-- Deploy in different chains
-- Build some templates for hacks
+- Build boilerplate code for testing out new repos and trying out new projects from the smart contract and frontend side
 - CoWswap
   - Programmatic Order Framework
   - DCA/TWAP
@@ -51,12 +50,12 @@ I probably won't get round to half of these ideas but here are some of the thing
 - Uniswap
   - Deploy an LP pool with Hooks
   - Explore V4
-- AA wallet
-  - SAFE
+- AA 4337 wallets
+  - SAFE wallet SDK
   - Biconomy with Rhinestone
-- Tokenbound account
+- Tokenbound accounts 6551
   - Create a Marketplace
-  - Fractionalize the NFT for this marketplace
+  - Fractionalise the NFT for this marketplace
 - Create a NFT collection
 - Build an interface for Ambient DEX
 - Do some Caddi integrations 👀
@@ -66,18 +65,19 @@ I probably won't get round to half of these ideas but here are some of the thing
   - From scratch
   - With Hal
   - Push
-- Understand Oracles
-- Integrate different bridges
+- Integrate Oracles
+- Integrate different bridges and bridge aggregators
 - MEV
-  - Run searching strategies (particularly frontrunning analysis)
+  - Run searching strategies (frontrunning and sandwich analysis)
   - Get familiar with mempools
-  - Frontrunning searching strategy
-- Browser extension color picker
+  - Frontrunning searching strategies
+- Browser extensions 😀 
 - Build a good portfolio tracker
   - Using APIs
-  - Using Blockchain Data Directly
+  - Using Blockchain data directly
 - Simulate any EVM transaction
   - Enso Temper
+  - Tenderly
 - Rapidly build server/client websockets connections and APIs
 - TG Miniapp to send payments from CEX accounts
 - Write a simple TON app using funC
@@ -86,6 +86,5 @@ I probably won't get round to half of these ideas but here are some of the thing
   - To look at frontrunnable value
 - Perp Aggs
 - Build a bridge
-
 
 
