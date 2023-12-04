@@ -44,7 +44,13 @@ Using covalent's api and typescript to track portfolio balance, need to get a Ze
 ---
 
 ### Dec 3rd
-Node Guardians - gas optimizing solidity contracts 
+Node Guardians - gas optimizing solidity contracts
+
+Messing around with bridging using Socket's API
+- https://github.com/jaiminbuilds/bridgooor
+
+Creating a general purpose dApp to use for testing
+- https://github.com/jaiminbuilds/starter_dapp
 
 ---
 
