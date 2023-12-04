@@ -6,15 +6,15 @@
 
 Well, it's been a while since I've coded for fun... that's it really
 
-Coming back from Devconnect in November, I saw a tonne of cool things being built and though there's no better time to expore some of this exciting tech. There is so much awesome shit being built in crypto and the best way to get invovled is to get my hands dirty. This is a way to explore the technology 🛠️
+Coming back from Devconnect in November, I saw a tonne of cool things being built and thought there's no better time to explore and dev. Crypto moves at the speed of light and the best way to keep up is to get invovled and get my hands dirty. This is my way of being close to the tech 🛠️
 
-My background is mostly data science and ML, I used to be a Python maxi building mostly ML models and data pipelines and all my code was built in Jupyter Notebooks. I've built some frontend (JS & React) before but never gone too deep with smart contract engineering and EVM. That is going to change, this is the point!
+My background is mostly python, built some programs but mostly focused on data science/ML, I used to be a Python maxi (lol) building ML models and data pipelines and 90% of my code was written in Jupyter Notebooks. Later built some frontend (JS & React) for Caddi and hackathons but never gone too deep with smart contract engineering and EVM. That is going to change this month, this is the point!
 
 It's been a while since I've worked on new projects and coded for the hell of it. LFG 💪
 
-Still building https://www.caddi.fi full time, you can expect to see some overlap with what we're building here and with Caddi 📈
+Still building https://www.caddi.fi full time, expect to see overlap with what I'm exploring here and what we build with Caddi 📈
 
-If you are interested in having a chat with me about any of these repos, interested in collaborating, or want to find out more about Caddi then reach out via TG https://t.me/jaimin_building 🫡
+If you are interested in having a chat with me about any of these repos, interested in collaborating, or want to find out more about Caddi, then reach out via TG https://t.me/jaimin_building 🫡
 
 ## Calendar
 
@@ -40,6 +40,11 @@ Set up a simple python flask server and client communicating through Heroku, Her
 
 Using covalent's api and typescript to track portfolio balance, need to get a Zerion api
 - https://github.com/jaiminbuilds/portfolio
+
+---
+
+### Dec 3rd
+Node Guardians - gas optimizing solidity contracts 
 
 ---
 
@@ -77,13 +82,19 @@ I probably won't get round to half of these ideas but here are some of the thing
   - Run searching strategies (frontrunning and sandwich analysis)
   - Get familiar with mempools
   - Frontrunning searching strategies
+- Intent architectures
+  - 1inch Fusion API exploration
+  - Suave
 - Browser extensions 😀 
+  - Connect wallet with both Metamask and Walletconnect
+  - Landing page of extension
 - Build a good portfolio tracker
-  - Using APIs (Coingecko, De.fi, covalent, defillama, coinmarketcap, debank)
+  - Using APIs (Coingecko, De.fi, covalent, defillama, coinmarketcap, debank, Portals)
   - Using Blockchain data directly
 - Simulate any EVM transaction
   - Enso Temper
   - Tenderly
+  - Json RPC calls
 - Rapidly build server/client websockets connections and APIs
 - TG Miniapp to send payments from CEX accounts
 - Write a simple TON app using funC
