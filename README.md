@@ -54,6 +54,12 @@ Creating a general purpose dApp to use for testing
 
 ---
 
+### Dec 4th
+Started putting in socket's single tx quote and swap into the starter_dapp. Not quite working yet, will try to copy more code out the box and get it working there.
+- https://github.com/jaiminbuilds/starter_dapp
+
+--- 
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
@@ -94,6 +100,7 @@ I probably won't get round to half of these ideas but here are some of the thing
 - Browser extensions 😀 
   - Connect wallet with both Metamask and Walletconnect
   - Landing page of extension
+  - Interactive injections to a webpage
 - Build a good portfolio tracker
   - Using APIs (Coingecko, De.fi, covalent, defillama, coinmarketcap, debank, Portals)
   - Using Blockchain data directly
