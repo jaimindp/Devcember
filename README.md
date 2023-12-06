@@ -60,6 +60,11 @@ Started putting in socket's single tx quote and swap into the starter_dapp. Not 
 
 --- 
 
+### Dec 5th
+Got my starter dapp working with Wagmi and used Ethers to initiate briging USDC from Polygon to BNB chain for Socket, handling for approvals. Seems to be working fine :)
+- https://github.com/jaiminbuilds/bridgooor
+- https://github.com/jaiminbuilds/starter_dapp
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
