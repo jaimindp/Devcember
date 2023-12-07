@@ -65,6 +65,14 @@ Got my starter dapp working with Wagmi and used Ethers to initiate briging USDC 
 - https://github.com/jaiminbuilds/bridgooor
 - https://github.com/jaiminbuilds/starter_dapp
 
+---
+
+### Dec 6th
+Node Guardians - delegate call action: solved quest to prove if the function call was a delegate call or not by writing the immutable contract deployment address into the constructor
+
+
+---
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
