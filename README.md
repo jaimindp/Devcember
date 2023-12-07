@@ -6,13 +6,13 @@
 
 Well, it's been a while since I've coded for fun... that's it really
 
-Coming back from Devconnect in November, I saw a tonne of cool things being built and thought there's no better time to explore and dev. Crypto moves at the speed of light and the best way to keep up is to get invovled and get my hands dirty. This is my way of being close to the tech 🛠️
+Coming back from Devconnect in November, I saw a tonne of cool crypto tech being built and thought there's no better time for me to develop and explore it as the year ends. Crypto moves at the speed of light and the best way to keep up is to get invovled and get my hands dirty. This is my way of being close to the tech 🛠️
 
-My background is mostly python, built some programs but mostly focused on data science/ML, I used to be a Python maxi (lol) building ML models and data pipelines and 90% of my code was written in Jupyter Notebooks. Later built some frontend (JS & React) for Caddi and hackathons but never gone too deep with smart contract engineering and EVM. That is going to change this month, this is the point!
+With most of my programming experience in python, focused on data science & ML, I used to be a Python maxi (lol) building ML models and data pipelines and 90% of my code was written in Jupyter Notebooks. Later built some frontend (JS & React) for Caddi and hackathons but never gone too deep with smart contract engineering and EVM. That is going to change this month, this is the point!
 
-It's been a while since I've worked on new projects and coded for the hell of it. LFG 💪
+It's been a while since I've worked on new projects and coded for the hell of it so this is going to be fun,LFG 💪
 
-Still building https://www.caddi.fi full time, expect to see overlap with what I'm exploring here and what we build with Caddi 📈
+Still building https://www.caddi.fi full time, expect to see overlaps with what I'm exploring here and what we build with Caddi 📈
 
 If you are interested in having a chat with me about any of these repos, interested in collaborating, or want to find out more about Caddi, then reach out via TG https://t.me/jaimin_building 🫡
 
@@ -70,6 +70,8 @@ Got my starter dapp working with Wagmi and used Ethers to initiate briging USDC 
 ### Dec 6th
 Node Guardians - delegate call action: solved quest to prove if the function call was a delegate call or not by writing the immutable contract deployment address into the constructor
 
+Messed around with a browser extension to inject objects into web frontends of browser extensions
+- https://github.com/jaimindp/designr_injection
 
 ---
 
