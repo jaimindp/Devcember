@@ -75,6 +75,15 @@ Messed around with a browser extension to inject objects into web frontends of b
 
 ---
 
+### Dec 7th
+Minted an NFT using NiftyKit and their diamond contract. Got it working on the starter dapp. Doing some tweaks for Caddi
+- https://github.com/jaimindp/minting_nft
+
+Working on transaction simulation using Enso Temper. Simulated transactions on ETH Mainnet, now trying the same for Polygon
+- https://github.com/jaimindp/temper_simulate_evm
+
+--- 
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
