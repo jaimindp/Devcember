@@ -85,7 +85,10 @@ Working on transaction simulation using Enso Temper. Simulated transactions on E
 --- 
 
 ### Dec 8th
-NFT minting work, Caddi onboarding with NFT Mint coming soon ⛳️ 👀 Ensuring mint works with Soulbound Tokens
+NFT minting work, Caddi onboarding with coming soon ⛳️ 👀 Ensuring mint works with Soulbound Tokens
+
+Transcation simulation via API using Tenderly to simulate transations across multiple blockchains
+- https://github.com/jaimindp/tenderly
 
 --- 
 
