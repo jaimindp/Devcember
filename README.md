@@ -95,8 +95,7 @@ Transcation simulation via API using Tenderly to simulate transations across mul
 ### Dec 9th
 Mostly Caddi coding for our new onboarding and NFT mint
 
-Tenderly simulations working for approvals but not swaps for some reason (mainnet). Will need to debug
-why it's being reverted
+Tenderly simulations working for approvals and swaps :)
 - https://github.com/jaimindp/tenderly
 
 ### Ideas
