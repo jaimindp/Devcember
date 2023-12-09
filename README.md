@@ -84,6 +84,11 @@ Working on transaction simulation using Enso Temper. Simulated transactions on E
 
 --- 
 
+### Dec 8th
+NFT minting work, Caddi onboarding with NFT Mint coming soon ⛳️ 👀 Ensuring mint works with Soulbound Tokens
+
+--- 
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
