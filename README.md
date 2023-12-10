@@ -98,6 +98,15 @@ Mostly Caddi coding for our new onboarding and NFT mint
 Tenderly simulations working for approvals and swaps :)
 - https://github.com/jaimindp/tenderly
 
+--- 
+
+### Dec 10th
+Did a bit of work on the simulation framework for enso temper to simluate polygon transactions, gas units are hard 😅
+- https://github.com/jaimindp/temper_simulate_evm
+
+---
+
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
