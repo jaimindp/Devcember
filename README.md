@@ -105,7 +105,9 @@ Did a bit of work on the simulation framework for enso temper to simluate polygo
 - https://github.com/jaimindp/temper_simulate_evm
 
 ---
-
+### Dec 11th
+Working on the portfolio tracker, quick setup with portals API to track multichain portfolio and summarize in a pie chart
+- https://github.com/jaimindp/portfolio
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
