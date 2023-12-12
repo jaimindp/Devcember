@@ -106,7 +106,7 @@ Did a bit of work on the simulation framework for enso temper to simluate polygo
 
 ---
 ### Dec 11th
-Working on the portfolio tracker, quick setup with portals API to track multichain portfolio and summarize in a pie chart
+Working on the portfolio tracker, quick setup with portals API to track multichain portfolio and summarize in charts, also using Alchemy for token balances, no $ price with Alchemy though
 - https://github.com/jaimindp/portfolio
 
 ### Ideas
@@ -151,7 +151,7 @@ I probably won't get round to half of these ideas but here are some of the thing
   - Landing page of extension
   - Interactive injections to a webpage
 - Build a good portfolio tracker
-  - Using APIs (Coingecko, De.fi, covalent, defillama, coinmarketcap, debank, Portals)
+  - Using APIs (Coingecko, De.fi, covalent, defillama, coinmarketcap, debank, Portals, Alchemy RPC)
   - Using Blockchain data directly
 - Simulate any EVM transaction
   - Enso Temper
