@@ -134,6 +134,7 @@ I probably won't get round to half of these ideas but here are some of the thing
 - AA 4337 wallets
   - SAFE wallet SDK
   - Biconomy with Rhinestone
+  - Session key management
 - Tokenbound accounts 6551
   - Create a Marketplace
   - Fractionalise the NFT for this marketplace
