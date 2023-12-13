@@ -21,10 +21,9 @@ If you are interested in having a chat with me about any of these repos, interes
 I'll log my progress daily in this repo and point to any repos I create during the sprint
 
 ### Dec 1st
-MEV - Searching Strategies
-Did some NodeGuardians quests to learn about storage and Gas Optimizations
+Did Node Guardians quests to learn about storage and Gas Optimizations
 
-Using Blocknative docs
+MEV - Searching Strategies using Blocknative docs
 To get an understanding of how Mempools work and how to access transactions that I'm forwarding there.
 - https://github.com/jaiminbuilds/mev
 
@@ -109,6 +108,16 @@ Did a bit of work on the simulation framework for enso temper to simluate polygo
 Working on the portfolio tracker, quick setup with portals API to track multichain portfolio and summarize in charts, also using Alchemy for token balances, no $ price with Alchemy though
 - https://github.com/jaimindp/portfolio
 
+---
+### Dec 12th
+Testing out on-chain perp trading API's Hyperliquid and Aevo, using python to place trade, was able to get Aevo on testnet with API Keys, Secrets and generate a signer but was hitting errors (in Python) with placing orders
+- https://github.com/jaimindp/perps
+
+Also started to use Brownie, getting working wtih Ganache
+- https://github.com/jaimindp/brownie
+
+---
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
@@ -131,7 +140,7 @@ I probably won't get round to half of these ideas but here are some of the thing
 - Create a NFT collection
 - Build an interface for Ambient DEX
 - Do some Caddi integrations 👀
-- Interface for perp dexes and aggregators (Hyperliquid, MUX, LogX, RageTrade)
+- Interface for perp dexes and aggregators (Hyperliquid, Aevo, Vertex, MUX, LogX, RageTrade)
 - Build a GPT interface to execute smart contracts from natual language
 - On chain notifications 
   - From scratch
@@ -150,6 +159,7 @@ I probably won't get round to half of these ideas but here are some of the thing
   - Connect wallet with both Metamask and Walletconnect
   - Landing page of extension
   - Interactive injections to a webpage
+  - Browser icon add flavour
 - Build a good portfolio tracker
   - Using APIs (Coingecko, De.fi, covalent, defillama, coinmarketcap, debank, Portals, Alchemy RPC)
   - Using Blockchain data directly
