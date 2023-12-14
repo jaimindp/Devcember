@@ -25,20 +25,20 @@ Did Node Guardians quests to learn about storage and Gas Optimizations
 
 MEV - Searching Strategies using Blocknative docs
 To get an understanding of how Mempools work and how to access transactions that I'm forwarding there.
-- https://github.com/jaiminbuilds/mev
+- https://github.com/jaimindp/mev
 
 ---
 
 ### Dec 2nd
 Gas monitoring Chrome extension, it uses the blocknative API to monitor gas prices and shows it from the icon on the broswer extension. It's Typescript and should be able to be deployed on both Chrome and Firefox
 
-- https://github.com/jaiminbuilds/gas_no_brakes
+- https://github.com/jaimindp/gas_no_brakes
 
 Set up a simple python flask server and client communicating through Heroku, Heroku is nice 👍
-- https://github.com/jaiminbuilds/flask-server
+- https://github.com/jaimindp/flask-server
 
 Using covalent's api and typescript to track portfolio balance, need to get a Zerion api
-- https://github.com/jaiminbuilds/portfolio
+- https://github.com/jaimindp/portfolio
 
 ---
 
@@ -46,23 +46,23 @@ Using covalent's api and typescript to track portfolio balance, need to get a Ze
 Node Guardians - gas optimizing solidity contracts
 
 Messing around with bridging using Socket's API
-- https://github.com/jaiminbuilds/bridgooor
+- https://github.com/jaimindp/bridgooor
 
 Creating a general purpose dApp to use for testing
-- https://github.com/jaiminbuilds/starter_dapp
+- https://github.com/jaimindp/starter_dapp
 
 ---
 
 ### Dec 4th
 Started putting in socket's single tx quote and swap into the starter_dapp. Not quite working yet, will try to copy more code out the box and get it working there.
-- https://github.com/jaiminbuilds/starter_dapp
+- https://github.com/jaimindp/starter_dapp
 
 --- 
 
 ### Dec 5th
 Got my starter dapp working with Wagmi and used Ethers to initiate briging USDC from Polygon to BNB chain for Socket, handling for approvals. Seems to be working fine :)
-- https://github.com/jaiminbuilds/bridgooor
-- https://github.com/jaiminbuilds/starter_dapp
+- https://github.com/jaimindp/bridgooor
+- https://github.com/jaimindp/starter_dapp
 
 ---
 
