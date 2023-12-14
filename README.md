@@ -117,6 +117,11 @@ Also started to use Brownie, getting working wtih Ganache
 - https://github.com/jaimindp/brownie
 
 ---
+### Dec 13th
+Upgraded my AI coding stack with cursor.so, also started to use modal to make any function serverless, and run remotely. Super easy to set up and cursor (VSCode fork with better integrated GPT) looks like alpha. Did some work on the new Caddi onboarding flow
+- https://github.com/jaimindp/modal
+
+--- 
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
