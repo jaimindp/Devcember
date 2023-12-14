@@ -21,7 +21,7 @@ If you are interested in having a chat with me about any of these repos, interes
 I'll log my progress daily in this repo and point to any repos I create during the sprint
 
 ### Dec 1st
-Did Node Guardians quests to learn about storage and Gas Optimizations
+Started on some Node Guardians quests to learn about EVM and gas, worked through Storage and Gas Optimizations quests
 
 MEV - Searching Strategies using Blocknative docs
 To get an understanding of how Mempools work and how to access transactions that I'm forwarding there.
