@@ -122,6 +122,15 @@ Upgraded my AI coding stack with cursor.so, also started to use modal to make an
 - https://github.com/jaimindp/modal
 
 --- 
+### Dec 14th
+Caddi changes to our onboarding flow
+
+Started on a blog post about Devcember
+
+Trying Mev Frontrunning repo: 
+- https://github.com/jaimindp/mev
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
