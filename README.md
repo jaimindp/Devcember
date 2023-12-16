@@ -131,6 +131,11 @@ Trying Mev Frontrunning repo:
 - https://github.com/jaimindp/mev
 
 ---
+### Dec 15th
+Bridging arc restarted, diving into across and how the contracts work as well as their frontend. Will try ot replace these contracts with another bridge
+- https://github.com/jaimindp/across-frontend-v2
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
