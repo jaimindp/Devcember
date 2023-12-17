@@ -136,6 +136,13 @@ Bridging arc restarted, diving into across and how the contracts work as well as
 - https://github.com/jaimindp/across-frontend-v2
 
 ---
+### Dec 16th
+Testing deBridge and Across SDKs, integrating cross chains swaps to starter dApp
+- https://github.com/jaimindp/across-frontend-v2
+- https://github.com/jaimindp/bridgooor
+- https://github.com/jaimindp/starter_dapp
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
