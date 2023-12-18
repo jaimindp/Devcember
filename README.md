@@ -143,6 +143,11 @@ Testing deBridge and Across SDKs, integrating cross chains swaps to starter dApp
 - https://github.com/jaimindp/starter_dapp
 
 ---
+### Dec 17th
+For support for bridging, using LiFi's API to get the support bridge tokens across 19 chains
+- https://github.com/jaimindp/portfolio
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
