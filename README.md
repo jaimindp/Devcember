@@ -147,6 +147,9 @@ Testing deBridge and Across SDKs, integrating cross chains swaps to starter dApp
 For support for bridging, using LiFi's API to get the support bridge tokens across 19 chains
 - https://github.com/jaimindp/portfolio
 
+Some frontend injections for gas price extension
+- https://github.com/jaimindp/gas_no_brakes
+
 ---
 
 ### Ideas
