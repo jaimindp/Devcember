@@ -151,6 +151,8 @@ Some frontend injections for gas price extension
 - https://github.com/jaimindp/gas_no_brakes
 
 ---
+### Dec 18th
+Working on some fun stuff for Caddi, had to take a repo private
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
