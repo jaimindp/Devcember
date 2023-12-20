@@ -152,7 +152,13 @@ Some frontend injections for gas price extension
 
 ---
 ### Dec 18th
-Working on some fun stuff for Caddi, had to take a repo private
+Working on some fun stuff for Caddi, had to take a repo private. It's going to be a degen 2024
+
+---
+### Dec 19th
+Got back into smart contracting with Node Guardians, did proxy the proxy contract quest
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
