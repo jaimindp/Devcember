@@ -159,6 +159,8 @@ Working on some fun stuff for Caddi, had to take a repo private. It's going to b
 Got back into smart contracting with Node Guardians, did proxy the proxy contract quest
 
 ---
+### Dec 20th
+Node guardians, more proxy contracts and gas optimization
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
