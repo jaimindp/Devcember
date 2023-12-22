@@ -162,6 +162,11 @@ Got back into smart contracting with Node Guardians, did proxy the proxy contrac
 ### Dec 20th
 Node guardians, more proxy contracts and gas optimization
 
+---
+### Dec 21th
+Fixed some of the Caddi onboarding flow with the mint + Deployed some testnet contracts to try out cow's Programmatic Order Framework on Goerli for cool trading features 🐮
+https://github.com/jaimindp/composable-cow-orders
+
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
