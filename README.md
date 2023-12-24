@@ -172,6 +172,11 @@ https://github.com/jaimindp/composable-cow-orders
 NFT launch edits and started to use scaffold ETH 2
 https://github.com/jaimindp/scaffold.git
 
+--- 
+### Dec 23rd
+Node guardians OpenZepplin proxy contracts upgrading ERC-721s 
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
