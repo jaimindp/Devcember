@@ -177,6 +177,11 @@ https://github.com/jaimindp/scaffold.git
 Node guardians OpenZepplin proxy contracts upgrading ERC-721s 
 
 ---
+### Dec 24th
+Learnt basic Yul Assembly with Node Guardians quests, worked on Caddi social feature 👀
+
+---
+
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
