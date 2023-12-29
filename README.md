@@ -181,7 +181,20 @@ Node guardians OpenZepplin proxy contracts upgrading ERC-721s
 Learnt basic Yul Assembly with Node Guardians quests, worked on Caddi social feature 👀
 
 ---
+### Dec 25th
+Did a bit of Caddi engineering on Caddi social 
 
+---
+### Dec 26th
+Did a bit of Caddi engineering on Caddi social, but Christmas day and fam time 
+
+---
+### Dec 27th
+Caddi social + Backend DB integration
+
+---
+
+### Caddi Social 
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
