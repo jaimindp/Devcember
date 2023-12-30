@@ -193,8 +193,14 @@ Did a bit of Caddi engineering on Caddi social, but Christmas day and fam time
 Caddi social + Backend DB integration
 
 ---
+### Dec 28th
+Caddi Social, getting closer
 
-### Caddi Social 
+---
+### Dec 29th
+Caddi extension work with Caddi social
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
