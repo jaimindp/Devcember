@@ -205,7 +205,10 @@ Caddi extension work with Caddi social
 Caddi degen social feature, getting closer to prod
 
 ---
+### Dec 31th
+Caddi degrnbox V0 backend and frontend shipped and ready for integration with extension 🫡
 
+--- 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
 
