@@ -201,6 +201,10 @@ Caddi Social, getting closer
 Caddi extension work with Caddi social
 
 ---
+### Dec 30th
+Caddi degen social feature, getting closer to prod
+
+---
 
 ### Ideas
 I probably won't get round to half of these ideas but here are some of the things I intend to explore.
